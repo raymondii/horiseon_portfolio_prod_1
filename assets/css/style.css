@@ -1,9 +1,14 @@
+/* CSS Document for Horiseon Website */
+
+/* Global Styles */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+
+/* Custom Styles */
 body {
     background-color: #d9dcd6;
 }
